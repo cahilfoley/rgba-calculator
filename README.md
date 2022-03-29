@@ -4,4 +4,4 @@ The RGBA calculator determines the effective displayed color of a foreground col
 
 ## CodeSandbox
 
-https://rgba-calculator.dev-tools.cahil.pw/
+https://codesandbox.io/s/github/cahilfoley/rgba-calculator
